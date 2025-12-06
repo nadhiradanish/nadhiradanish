@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nadhirah Danish</h1>
 <h3 align="center">Turning ideas into apps! Full-Stack Developer, Software Engineer, and aspiring Game Developer.</h3>
 
-- 🎣 What I’m crafting right now [Reel Fate - eco fishing game](https://aisyai.itch.io/reel-fate)
+- What I’m crafting right now [Reel Fate - eco fishing game](https://aisyai.itch.io/reel-fate)
 
-- 🌱 Skills I’m leveling up **C#, Kotlin & Flutter (+ Unity magic on the side ✨)**
+- Skills I’m leveling up **C#, Kotlin & Flutter (+ Unity magic on the side ✨)**
 
-- 🐕‍🦺 I’m currently building apps **PawPals - an android dog community app**
+-  I’m currently building apps **PawPals - an android dog community app**
 
-- 👨‍💻 Where my projects live [GitHub for now — portfolio coming soon](GitHub for now — portfolio coming soon)
+- Where my projects live [GitHub for now — portfolio coming soon](GitHub for now — portfolio coming soon)
 
-- 💬 Topics I won’t shut up about **C#, HTML/CSS, gameplay mechanics, mobile app dev, and that one bug I finally fixed 😌**
+- Topics I won’t shut up about **C#, HTML/CSS, gameplay mechanics, mobile app dev, and that one bug I finally fixed 😌**
 
-- 📫 How to reach me **nadiradanish@gmail.com**
+- How to reach me **nadiradanish@gmail.com**
 
-- ⚡ Fun fact **I produce better code when the playlist switches from chill to chaotic mid-session 🎧**
+- Fun fact **I produce better code when the playlist switches from chill to chaotic mid-session 🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
