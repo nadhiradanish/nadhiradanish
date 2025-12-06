@@ -7,7 +7,7 @@
 
 -  I’m currently building apps **PawPals - an android dog community app**
 
-- Where my projects live [GitHub for now — portfolio coming soon](GitHub for now — portfolio coming soon)
+- Where my projects live GitHub for now — portfolio coming soon
 
 - Topics I won’t shut up about **C#, HTML/CSS, gameplay mechanics, mobile app dev, and that one bug I finally fixed 😌**
 
